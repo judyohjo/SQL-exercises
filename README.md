@@ -3,7 +3,11 @@
 - It is a database language 
 - Types of SQL: SQLite, MySQL
 - DBMS (Database Management System) is a tool to link SQL and database. 
-- SQL language:
+- SQL statements/commands:
     DDL
     DML
+    DCL
+    TCL
+    
+# SQL Exercise
     
