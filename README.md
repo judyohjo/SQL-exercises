@@ -6,8 +6,8 @@
 - SQL statements/commands:
     DDL (Data Definition Language)
     DML (Data Manipulation Language)
-    DCL
-    TCL
+    DCL (Data Control Language)
+    TCL (Transaction Control Language)
     
 # SQL Exercise
     
