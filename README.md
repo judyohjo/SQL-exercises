@@ -4,8 +4,8 @@
 - Types of SQL: SQLite, MySQL
 - DBMS (Database Management System) is a tool to link SQL and database. 
 - SQL statements/commands:
-    DDL
-    DML
+    DDL (Data Definition Language)
+    DML (Data Manipulation Language)
     DCL
     TCL
     
