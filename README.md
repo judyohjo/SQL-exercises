@@ -10,5 +10,5 @@
     - TCL (Transaction Control Language)
     
 # SQL Exercise
-- 
+- person.sql
     
