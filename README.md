@@ -10,6 +10,10 @@
         - DROP
         - TRUNCATE
     - DML (Data Manipulation Language)
+        - SELECT
+        - INSERT
+        - UPDATE
+        - DELETE
     - DCL (Data Control Language)
     - TCL (Transaction Control Language)
 # SQL Exercise
