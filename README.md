@@ -16,6 +16,8 @@
         - DELETE
     - DCL (Data Control Language)
     - TCL (Transaction Control Language)
+        - COMMIT
+        - ROLLBACK
 # SQL Exercise
 - person.sql
     
