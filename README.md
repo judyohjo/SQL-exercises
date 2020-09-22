@@ -5,10 +5,13 @@
 - DBMS (Database Management System) is a tool to link SQL and database. 
 - SQL statements/commands:
     - DDL (Data Definition Language)
+        - CREATE
+        - ALTER
+        - DROP
+        - TRUNCATE
     - DML (Data Manipulation Language)
     - DCL (Data Control Language)
     - TCL (Transaction Control Language)
-    
 # SQL Exercise
 - person.sql
     
