@@ -9,6 +9,7 @@ CREATE TABLE person (
 
 
 INSERT INTO person(id, pw, name) VALUES ('judyohjo', 'abc1234', 'Judy');
+INSERT INTO person(id, pw, name) VALUES ('jspsql', 'ghjk345', 'Sam');
 
 SELECT * FROM person;
 
