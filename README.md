@@ -1,6 +1,7 @@
 # SQL Theory
 - SQL is an acronym of Structured Query Language and it allow users to search, delete, update and etc data from database. 
-- It is a database language 
+- A database language 
+- **Software:** Microsoft SQL Management
 - **Types of SQL:** SQLite, MySQL, NoSQL
 - **DBMS (Database Management System):** a tool to link SQL and database. 
 - **SQL statements/commands:**
